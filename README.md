@@ -1,5 +1,5 @@
 # OOTDiffusion
-# syk
+# SY : Modified Mask Generation
 
 This repository is the official implementation of OOTDiffusion
 
