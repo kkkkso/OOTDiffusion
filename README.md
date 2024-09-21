@@ -1,5 +1,4 @@
-# OOTDiffusion
-# SY : Modified Mask Generation
+# OOTDiffusion : Modified Mask Generation by SY
 
 This repository is the official implementation of OOTDiffusion
 
